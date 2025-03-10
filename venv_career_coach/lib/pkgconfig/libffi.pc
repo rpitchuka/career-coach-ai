@@ -1,0 +1,11 @@
+prefix=/Users/rishitapitchuka/Desktop/GIT_Projects/gen-ai-projects/career_coach/venv_career_coach
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+toolexeclibdir=${libdir}
+includedir=/Users/rishitapitchuka/Desktop/GIT_Projects/gen-ai-projects/career_coach/venv_career_coach/include
+
+Name: libffi
+Description: Library supporting Foreign Function Interfaces
+Version: 3.4.4
+Libs: -L${toolexeclibdir} -lffi
+Cflags: -I${includedir}

@@ -1,0 +1,13 @@
+prefix=/Users/rishitapitchuka/Desktop/GIT_Projects/gen-ai-projects/career_coach/venv_career_coach
+exec_prefix=/Users/rishitapitchuka/Desktop/GIT_Projects/gen-ai-projects/career_coach/venv_career_coach
+libdir=/Users/rishitapitchuka/Desktop/GIT_Projects/gen-ai-projects/career_coach/venv_career_coach/lib
+sharedlibdir=/Users/rishitapitchuka/Desktop/GIT_Projects/gen-ai-projects/career_coach/venv_career_coach/lib
+includedir=/Users/rishitapitchuka/Desktop/GIT_Projects/gen-ai-projects/career_coach/venv_career_coach/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
