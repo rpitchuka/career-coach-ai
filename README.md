@@ -3,14 +3,14 @@
 An **AI-powered career coach** built with **LangChain, OpenAI, and Streamlit**.  
 This assistant helps job seekers and professionals by analyzing resumes, suggesting jobs, recommending networking contacts, and generating personalized outreach messages.  
 
-## ✨ Features
+## Features
 - **Resume Analyzer** → Provides insights on strengths, gaps, and alignment with job roles.  
 - **Job Finder** → Finds relevant opportunities based on skills, domain, and interests.  
 - **Contact Suggester** → Recommends networking contacts to improve reach.  
 - **Message Generator** → Creates tailored outreach messages for recruiters or LinkedIn.  
 - **Streamlit UI** → Simple web interface for interactive use.  
 
-## 🏗️ Tech Stack
+## Tech Stack
 - **Frontend**: Streamlit  
 - **Backend / Orchestration**: LangChain, Python  
 - **LLM Integration**: OpenAI GPT models  
@@ -23,7 +23,7 @@ This assistant helps job seekers and professionals by analyzing resumes, suggest
   - `streamlit_app.py` → UI entry point  
 - **Dependencies**: see `requirements.txt`
 
-## 🚀 Getting Started
+## Getting Started
 ### Prerequisites
 - Python 3.10+  
 - An OpenAI API key  
