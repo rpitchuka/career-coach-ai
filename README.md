@@ -30,6 +30,6 @@ This assistant helps job seekers and professionals by analyzing resumes, suggest
 
 ### Installation
 ```bash
-git clone https://github.com/<your-username>/career-coach-ai.git
+git clone https://github.com/rpitchuka/career-coach-ai.git
 cd career-coach-ai
 pip install -r requirements.txt
